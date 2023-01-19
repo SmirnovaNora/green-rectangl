@@ -51,7 +51,6 @@ file2 = open('check_close.txt', mode="r", encoding="utf-8")
 if file2.readline() == '2':
     par = True
 file2.close()
-print(par)
 file2 = open('check_close.txt', mode="w", encoding="utf-8")
 
 vx = 50
