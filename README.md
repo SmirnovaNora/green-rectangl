@@ -39,11 +39,16 @@
  
  ## Скриншоты
  * Стартовое окно
- [Стартовое окно](screenshots/стартовое окно.png)
+ 
+ ![Стартовое окно](screenshots/start_window.png)
+ 
  * Уровень
- [Уровень](screenshots/момент игры.png)
+ 
+ ![Уровень](screenshots/moment.png)
+ 
  * Окно с результатами
- [Окно с результатами](screenshots/финальное окно.png)
+ 
+ ![Окно с результатами](screenshots/final_window.png)
  
  ## Зависимости
  * pygame
